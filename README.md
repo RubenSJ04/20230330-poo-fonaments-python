@@ -53,6 +53,18 @@
 - [ ] Assignar valors a les dades dels objectes
 
 
+# Pregunta 7	2 punts
+Crear una classe **```<CognomAlumne>Rectangle.py```** amb els atributs **```base```** i **```alssada```**. On **```<CognomAlumne>```** és **només** el **cognom** de l'alumne, sense en nom de l'alumne. 
+Cal crear:
+1. el constructor de la classe,	**0,10 punts**
+1. els mètodes setters i getters,	**0,10 punts**
+1. el mètode **```__str__```**,	**0,20 punts**
+1. un mètode (**```perimetre```**) per calcular el perímetre,	**0,60 punts**
+1. un mètode (**```area```**) per calcular l'àrea.	**1,00 punts**
+
+# Pregunta 8	3 punts
+Crear un programa **```<CognomAlumne>AppRectangle.py```** que demani a l'usuari els valors de la **base** i l'**alçada** de dos rectangles, que crei dos rectangles amb els noms **```rect1```** i **```rect2```** amb les dades que se li han demanat a l'usuari, que mostri per pantalla l’**àrea** i **perímetre** de cada rectangle i que mostri dels dos rectangles tota la informació de cada rectangle en format **```cadena```** (**```string```**). On **```<CognomAlumne>```** és **només** el **cognom** de l'alumne, sense en nom de l'alumne.
+
 
 
 
